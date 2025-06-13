@@ -1,7 +1,7 @@
-package com.example.ProyectoF.Repository;
+package com.example.SegundoParcial.Repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import com.example.ProyectoF.model.User;
+import com.example.SegundoParcial.model.User;
 import java.util.Optional;
 
 public interface UserRepository extends JpaRepository<User, Long> {

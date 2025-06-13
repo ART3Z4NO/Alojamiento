@@ -1,5 +1,5 @@
-// src/main/java/com/example/ProyectoF/dto/ReservaRequestDTO.java
-package com.example.ProyectoF.dto;
+// src/main/java/com/example/SegundoParcial/dto/ReservaRequestDTO.java
+package com.example.SegundoParcial.dto;
 
 import java.time.LocalDate;
 import java.util.List;

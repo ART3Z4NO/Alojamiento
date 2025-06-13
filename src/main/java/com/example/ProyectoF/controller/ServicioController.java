@@ -1,9 +1,9 @@
 
 
-package com.example.ProyectoF.controller;
+package com.example.SegundoParcial.controller;
 
-import com.example.ProyectoF.Repository.ServicioRepository;
-import com.example.ProyectoF.model.Servicio;
+import com.example.SegundoParcial.Repository.ServicioRepository;
+import com.example.SegundoParcial.model.Servicio;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.security.SecurityRequirement;

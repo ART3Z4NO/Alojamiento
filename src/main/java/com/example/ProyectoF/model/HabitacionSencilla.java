@@ -1,4 +1,4 @@
-package com.example.ProyectoF.model;
+package com.example.SegundoParcial.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

@@ -1,4 +1,4 @@
-package com.example.ProyectoF.model;
+package com.example.SegundoParcial.model;
 
 import com.fasterxml.jackson.annotation.JsonIdentityInfo;
 import com.fasterxml.jackson.annotation.ObjectIdGenerators;

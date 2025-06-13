@@ -1,7 +1,7 @@
-// src/main/java/com/example/ProyectoF/handler/GlobalExceptionHandler.java
-package com.example.ProyectoF.handler;
+// src/main/java/com/example/SegundoParcial/handler/GlobalExceptionHandler.java
+package com.example.SegundoParcial.handler;
 
-import com.example.ProyectoF.exception.ResourceNotFoundException;
+import com.example.SegundoParcial.exception.ResourceNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

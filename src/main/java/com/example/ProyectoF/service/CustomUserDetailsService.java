@@ -1,10 +1,10 @@
-package com.example.ProyectoF.service;
+package com.example.SegundoParcial.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.*;
 import org.springframework.stereotype.Service;
-import com.example.ProyectoF.Repository.UserRepository;
-import com.example.ProyectoF.model.User;
+import com.example.SegundoParcial.Repository.UserRepository;
+import com.example.SegundoParcial.model.User;
 
 import java.util.ArrayList;
 

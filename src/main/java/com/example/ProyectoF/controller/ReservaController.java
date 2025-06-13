@@ -1,24 +1,24 @@
 
-package com.example.ProyectoF.controller;
+package com.example.SegundoParcial.controller;
 
-import com.example.ProyectoF.dto.ReservaRequestDTO;
-import com.example.ProyectoF.dto.ReservaResponseDTO;
-import com.example.ProyectoF.dto.ClienteResponseDTO;
-import com.example.ProyectoF.dto.HabitacionResponseDTO;
-import com.example.ProyectoF.dto.PisoResponseDTO;
-import com.example.ProyectoF.dto.ServicioResponseDTO;
+import com.example.SegundoParcial.dto.ReservaRequestDTO;
+import com.example.SegundoParcial.dto.ReservaResponseDTO;
+import com.example.SegundoParcial.dto.ClienteResponseDTO;
+import com.example.SegundoParcial.dto.HabitacionResponseDTO;
+import com.example.SegundoParcial.dto.PisoResponseDTO;
+import com.example.SegundoParcial.dto.ServicioResponseDTO;
 
-import com.example.ProyectoF.model.Cliente;
-import com.example.ProyectoF.model.Habitacion;
-import com.example.ProyectoF.model.Piso;
-import com.example.ProyectoF.model.Reserva;
-import com.example.ProyectoF.model.Servicio;
+import com.example.SegundoParcial.model.Cliente;
+import com.example.SegundoParcial.model.Habitacion;
+import com.example.SegundoParcial.model.Piso;
+import com.example.SegundoParcial.model.Reserva;
+import com.example.SegundoParcial.model.Servicio;
 
-import com.example.ProyectoF.Repository.ClienteRepository;
-import com.example.ProyectoF.Repository.HabitacionRepository;
-import com.example.ProyectoF.Repository.PisoRepository;
-import com.example.ProyectoF.Repository.ReservaRepository;
-import com.example.ProyectoF.Repository.ServicioRepository;
+import com.example.SegundoParcial.Repository.ClienteRepository;
+import com.example.SegundoParcial.Repository.HabitacionRepository;
+import com.example.SegundoParcial.Repository.PisoRepository;
+import com.example.SegundoParcial.Repository.ReservaRepository;
+import com.example.SegundoParcial.Repository.ServicioRepository;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;

@@ -1,5 +1,5 @@
 
-package com.example.ProyectoF.config;
+package com.example.SegundoParcial.config;
 import io.swagger.v3.oas.models.Components;
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Info;
@@ -15,7 +15,7 @@ public class OpenAPIConfig {
     public OpenAPI customOpenAPI() {
         return new OpenAPI()
                 .info(new Info()
-                        .title("API de ProyectoF")
+                        .title("API de SegundoParcial")
                         .version("1.0")
                         .description("Documentación de la API"))
                 .addSecurityItem(new SecurityRequirement().addList("bearerAuth"))

@@ -1,5 +1,5 @@
-// src/main/java/com/example/ProyectoF/dto/ServicioResponseDTO.java
-package com.example.ProyectoF.dto;
+// src/main/java/com/example/SegundoParcial/dto/ServicioResponseDTO.java
+package com.example.SegundoParcial.dto;
 
 
 public class ServicioResponseDTO {

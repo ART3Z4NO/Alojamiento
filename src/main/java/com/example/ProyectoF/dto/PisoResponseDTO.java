@@ -1,5 +1,5 @@
-// src/main/java/com/example/ProyectoF/dto/PisoResponseDTO.java
-package com.example.ProyectoF.dto;
+// src/main/java/com/example/SegundoParcial/dto/PisoResponseDTO.java
+package com.example.SegundoParcial.dto;
 
 
 public class PisoResponseDTO {

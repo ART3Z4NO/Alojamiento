@@ -1,4 +1,6 @@
-package com.example.ProyectoF.util;
+
+package com.example.SegundoParcial.util;
+
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
@@ -11,8 +13,8 @@ import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
-import com.example.ProyectoF.controller.AuthController;
-import com.example.ProyectoF.util.JwtUtil;
+import com.example.SegundoParcial.controller.AuthController;
+import com.example.SegundoParcial.util.JwtUtil;
 
 import java.io.IOException;
 import java.util.Collections;

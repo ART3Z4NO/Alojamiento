@@ -1,5 +1,5 @@
-// src/main/java/com/example/ProyectoF/exception/ResourceNotFoundException.java
-package com.example.ProyectoF.exception;
+// src/main/java/com/example/SegundoParcial/exception/ResourceNotFoundException.java
+package com.example.SegundoParcial.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

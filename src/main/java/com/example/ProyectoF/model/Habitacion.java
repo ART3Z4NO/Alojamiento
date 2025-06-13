@@ -1,4 +1,4 @@
-package com.example.ProyectoF.model;
+package com.example.SegundoParcial.model;
 
 import jakarta.persistence.*;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;

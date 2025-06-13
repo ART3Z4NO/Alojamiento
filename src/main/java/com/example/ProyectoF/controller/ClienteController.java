@@ -1,4 +1,4 @@
-package com.example.ProyectoF.controller;
+package com.example.SegundoParcial.controller;
 
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -13,8 +13,8 @@ import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import com.example.ProyectoF.model.Cliente;
-import com.example.ProyectoF.Repository.ClienteRepository;
+import com.example.SegundoParcial.model.Cliente;
+import com.example.SegundoParcial.Repository.ClienteRepository;
 
 import java.util.List;
 import java.util.Map;

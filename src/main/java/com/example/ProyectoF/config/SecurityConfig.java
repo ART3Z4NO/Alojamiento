@@ -1,6 +1,6 @@
-package com.example.ProyectoF.config;
+package com.example.SegundoParcial.config;
 
-import com.example.ProyectoF.util.JwtFilter;
+import com.example.SegundoParcial.util.JwtFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

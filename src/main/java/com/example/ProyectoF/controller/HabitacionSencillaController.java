@@ -1,7 +1,7 @@
-package com.example.ProyectoF.controller;
+package com.example.SegundoParcial.controller;
 
-import com.example.ProyectoF.Repository.HabitacionSencillaRepository;
-import com.example.ProyectoF.model.HabitacionSencilla;
+import com.example.SegundoParcial.Repository.HabitacionSencillaRepository;
+import com.example.SegundoParcial.model.HabitacionSencilla;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import io.swagger.v3.oas.annotations.Operation;

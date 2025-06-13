@@ -1,4 +1,4 @@
-package com.example.ProyectoF.util;
+package com.example.SegundoParcial.util;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

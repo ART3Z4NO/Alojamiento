@@ -1,4 +1,4 @@
-package com.example.ProyectoF.service;
+package com.example.SegundoParcial.service;
 
 import org.springframework.stereotype.Service;
 

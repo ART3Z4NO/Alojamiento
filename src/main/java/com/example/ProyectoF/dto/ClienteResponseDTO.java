@@ -1,5 +1,5 @@
-// src/main/java/com/example/ProyectoF/dto/ClienteResponseDTO.java
-package com.example.ProyectoF.dto;
+// src/main/java/com/example/SegundoParcial/dto/ClienteResponseDTO.java
+package com.example.SegundoParcial.dto;
 
 public class ClienteResponseDTO {
     private Long id;
