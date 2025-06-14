@@ -9,9 +9,8 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties; // Importar esta a
 
 @JsonTypeInfo(use = JsonTypeInfo.Id.NAME, include = JsonTypeInfo.As.PROPERTY, property = "tipo")
 @JsonSubTypes({
-        @JsonSubTypes.Type(value = HabitacionNormal.class,  name = "normal"),
-        @JsonSubTypes.Type(value = HabitacionSencilla.class,name = "sencilla"),
-        @JsonSubTypes.Type(value = HabitacionLujosa.class,  name = "lujosa")
+        @JsonSubTypes.Type(value = Habitacion.class,  name = "Habitacion")
+
 })
 @Inheritance(strategy = InheritanceType.JOINED)
 @Entity

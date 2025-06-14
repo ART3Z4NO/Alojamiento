@@ -13,6 +13,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties; // Importar esta a
         property = "id"
 )
 // AÑADIR ESTA LÍNEA CRÍTICA
+// EXAMEN
 @JsonIgnoreProperties(value = {"hibernateLazyInitializer", "handler"}, ignoreUnknown = true)
 public class Reserva {
 
